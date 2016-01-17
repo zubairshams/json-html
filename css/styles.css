@@ -1,0 +1,14 @@
+.clear {
+  clear: both;
+}
+
+.header {
+    color: #0088cc;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.mtop20 {
+	margin-top: 20px;
+}
